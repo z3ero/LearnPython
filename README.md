@@ -1,0 +1,2 @@
+# LearnPython
+some python basic
