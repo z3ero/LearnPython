@@ -22,5 +22,5 @@ if __name__=="__main__":
     str_key_dict0['3'] = 300
     str_key_dict0['8'] = 800
     print('3 is str_key_dict0:', 3 in str_key_dict0)
-    print(str_key_dict0[8])
-    print(str_key_dict0[9])
+    print(str_key_dict0.get(8))
+    print(str_key_dict0.get(9))
