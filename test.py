@@ -1,0 +1,1 @@
+c = 1for i in range(500):    c*=2print(type(c))print(len(str(c)))
